@@ -1,4 +1,7 @@
-I'm Radmehr Abolhassani Ranjbar student at CS50 courses.
+I'm Radmehr Abolhassani Ranjbar student at CS50 courses and python programmer.
+My X account: (https://x.com/Radmehr_Ab)
+My Linkedln account: (https://ir.linkedin.com/in/radmehr-abolhassani-137508367)
+My Telegram username: (@Radmehr_Abolhasani)
 
 ## 🎓 Certifications
 
