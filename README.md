@@ -16,3 +16,7 @@ My Telegram username: (@Radmehr_Abolhasani)
 
  CS50AI - Harvard CS50's Introduction to Artificial Intelligence with Python  
  👉 [View Certificate](https://cs50.harvard.edu/certificates/4ba26873-3a5f-4556-af89-832a0288c898)
+
+## 🎓 Certificates
+ CS50 X- Harvard CS50's Introduction to Computer Science  
+  👉 [View Certificate][(https://cs50.harvard.edu/certificates/4ba26873-3a5f-4556-af89-832a0288c898](https://certificates.cs50.io/ab15c9b2-9feb-4005-9ccb-c1129dc13dda.pdf?size=letter))
